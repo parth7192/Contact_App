@@ -1,6 +1,6 @@
 # contact_diary_app
 
-A new Flutter project.
+COMMING SOON README FILE
 
 ## Getting Started
 
